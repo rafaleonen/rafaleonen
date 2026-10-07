@@ -5,6 +5,6 @@
 I’m a full stack developer and graduated in automation engineering.
 
 - 💻  My website -> https://rafael-portfolio.vercel.app/
-- 📫  How to reach me: rafah.sclt@gmail.com
+- 📫  How to reach me: leonen.rafael@gmail.com
 - 🌱  I’m always learning more about JS, Python and English to improve myself
-- 👯  I'm working at Tractian as a web developer.
+- 👯  I'm doing a postgraduate course nowadays
